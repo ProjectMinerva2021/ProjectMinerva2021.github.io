@@ -1,2 +1,7 @@
-# ProjectMinerva2021.github.io
-Project Minerva's official website
+# Project Minerva
+
+This project aims to address the problem of viral misinformation by holding news outlets accountable for the content they publish online. It was inspired by the frustration experienced by many during the COVID-19 pandemic, as citizens received conflicting information from different press agencies regarding the safety of their friends and families. After observing how online disinformation could poison public discourse, we began brainstorming ways to reestablish confidence in scientific journalism.
+
+We decided upon a distributed fact-checking service designed to appear on media platforms across the web. Modern technologies will be employed to embed concise summaries on pages containing missing citations, unreliable sources, and inaccurate attributions. Minerva will partner with news outlets to verify the validity and accuracy of the stories you consume, so you can be certain that what you read is entirely true. Our software will provide highlights and annotations to problematic passages, alerting the user in real time before they can be misled. A short summary of our findings will also be available at the end of each compatible webpage. If an article is found to contain misinformation, we will warn the user beforehand of the story's dubious nature and advise them to seek alternative sources. We believe that Minerva will help to reduce confusion surrounding complex topics such as COVID-19 safety guidelines, climate change, elections, and more.
+                    
+Minerva was chosen as the project's name as it was inspired by the Roman goddess of wisdom and justice. We believe that our program will help to make the average person better informed and more discerning, so they too can be as wise as Minerva was. Our logo is her emblematic owl who was commonly depicted alongside her.
